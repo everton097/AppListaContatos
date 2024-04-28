@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Listas com rolagem</string>
+    <string name="contact_list">Contact List</string>
+    <string name="insert_new_contact">Insert new contact</string>
+    <string name="insert_contact">Insert Contact</string>
+    <string name="confirm">Confirm</string>
+    <string name="edit_contact">Edit Contact</string>
+</resources>
